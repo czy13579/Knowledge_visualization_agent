@@ -34,10 +34,19 @@
 除本项目中实现的六种可视化工具，**用户也可以根据需要自定义其他可视化工具**，只需要在prompts.py中添加图像名称、介绍、指令模板，然后再实现相应的可视化函数将输出文本可视化即可。
 
 ## 使用方法
+### 环境配置
+```
+!git clone https://github.com/czy13579/Knowledge_visualization_agent.git
+%cd Knowledge_visualization_agent
+!pip install -r requirements.txt
+```
+### 修改.env文件
+### 运行main.py
+```
+!python main.py -i "分析保路运动原因和影响" -ip "notebook/test_input/test_input1.txt" -mt "multi_flow_map"
 ```
 
 
-```
 ## 结果展示
 测试数据：从网上搜集了涵盖语文、地理、历史、生物等学科的非结构化或半结构化文本，字数在一千到五千之间.
 
