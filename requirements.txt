@@ -1,0 +1,10 @@
+python-dotenv
+openai
+dashscope
+zhipuai
+pymupdf
+unstructured
+chromadb
+langchain_openai
+langchain
+langchain-community
