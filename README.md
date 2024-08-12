@@ -51,7 +51,7 @@
 ![alt text](test_results/flow_demo.png)
 
 ### 保路运动介绍 复流程图
-![alt text](test_results/multi_demo.png)
+![alt text](test_results/multi_flow_demo.png)
 
 ### 地球气候分类 树状图
 ![alt text](test_results/tree_demo.png)
