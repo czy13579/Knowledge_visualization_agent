@@ -42,19 +42,19 @@
 测试数据：从网上搜集了涵盖语文、地理、历史、生物等学科的非结构化或半结构化文本，字数在一千到五千之间.
 
 ### 保路运动介绍 气泡图
-![alt text](test_results/bubble_dome.png)
+![alt text](test_results/bubble_demo.png)
 
 ### 真核生物与原核生物对比 双泡图
-![alt text](test_results/double_bubble_dome.png)
+![alt text](test_results/double_bubble_demo.png)
 
 ### 《红楼梦》第十三回 流程图
-![alt text](test_results/flow_dome.png)
+![alt text](test_results/flow_demo.png)
 
 ### 保路运动介绍 复流程图
-![alt text](test_results/multi_dome.png)
+![alt text](test_results/multi_demo.png)
 
 ### 地球气候分类 树状图
-![alt text](test_results/tree_dome.png)
+![alt text](test_results/tree_demo.png)
 
 ### 保路运动介绍 组织图
-![alt text](test_results/brace_dome.png)
+![alt text](test_results/brace_demo.png)
